@@ -2,10 +2,10 @@
 from Rifuzada import Desenvolvedor
 
 class SobreMim:
-  nome = "Seu nome"
-  area = "Sua área"
-  trabalho = "Onde trabalha"
-  local = "Local"
+  nome = "Rafael"
+  area = "Backend"
+  trabalho = "???"
+  local = "Sorocaba - Sp"
 
 class Skills:
   linguagens = ["Py, C#"]
