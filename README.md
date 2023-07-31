@@ -19,8 +19,8 @@ def Rifuzada():
     local = "Sorocaba - Sp"
 
 def Skills(Rifuzada):
-      linguagens = ["Py"]
-      aprendendo = ["C#"]
+    linguagens = ["Py"]
+    aprendendo = ["C#"]
 ```
 
 <a href="https://github.com/Rifuzada">
