@@ -13,10 +13,10 @@
 from Rifuzada import Desenvolvedor
 
 def Rifuzada():
-          nome = "Rafael"
-          area = "Backend"
-          trabalho = "???"
-          local = "Sorocaba - Sp"
+    nome = "Rafael"
+    area = "Backend"
+    trabalho = "???"
+    local = "Sorocaba - Sp"
 
 def Skills(Rifuzada):
       linguagens = ["Py"]
