@@ -17,8 +17,8 @@ def Skills(Rifuzada):
   linguagens = ["Py, C#"]
 ```
 
-  <a href="https://github.com/Rifuzada">
-  <img height="180" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rifuzada&theme=dracula&hide_langs_below=1" />
+<a href="https://github.com/Rifuzada">
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rifuzada&theme=dracula&hide_langs_below=1"/>
 </a>
 
 
