@@ -1,18 +1,23 @@
 ```py
 from Rifuzada import Desenvolvedor
 
-class SobreMim:
-  nome = "Rafael"
-  area = "Backend"
-  trabalho = "???"
-  local = "Sorocaba - Sp"
+class Rifuzada:
+    def __init__(self):
+          nome = "Rafael"
+          area = "Backend"
+          trabalho = "???"
+          local = "Sorocaba - Sp"
 
-class Skills:
+def Skills(Rifuzada):
   linguagens = ["Py, C#"]
 ```
+<code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Python-Dark.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CS.svg"></code>
 
-<p align="left">
-  <img src="https://img.shields.io/static/v1?label=Overview&message=Rifuzada&color=b11818&style=for-the-badge&logo=GitHub">
-  <img align='right' src="https://github-readme-stats.vercel.app/api?username=Rifuzada&show_icons=true&title_color=b11818&text_color=000000&icon_color=000000&bg_color=b11818&cache_seconds=2300">
+  <img align=left src="https://img.shields.io/static/v1?label=Overview&message=Rifuzada&color=b11818&style=for-the-badge&logo=GitHub">
+  <a href="https://github.com/Rifuzada">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rifuzada&theme=dracula&hide_langs_below=1" />
+</a>
 
-</p>
+
+[![card](https://github-readme-stats.vercel.app/api?username=Rifuzada&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
