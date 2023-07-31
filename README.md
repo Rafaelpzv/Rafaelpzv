@@ -22,5 +22,4 @@ def Skills(Rifuzada):
 <a href="https://github.com/Rifuzada">
 <img height="170" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rifuzada&theme=dracula&hide_langs_below=1"/>
 <img height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=Rifuzada&theme=dark&show_icons=true"/>
-<img height="150" align="right" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Pokebola-pokeball-png-0.png"/>  
 </a>
