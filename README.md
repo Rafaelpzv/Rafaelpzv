@@ -7,8 +7,7 @@
 ```py
 from Rifuzada import Desenvolvedor
 
-class Rifuzada:
-    def __init__(self):
+def Rifuzada():
           nome = "Rafael"
           area = "Backend"
           trabalho = "???"
