@@ -23,6 +23,3 @@ def Skills(Rifuzada):
 <img height="170" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rifuzada&theme=dracula&hide_langs_below=1"/>
 <img height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=Rifuzada&theme=dark&show_icons=true"/>
 </a>
-
-[![card](https://github-readme-stats.vercel.app/api?username=Rifuzada&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
