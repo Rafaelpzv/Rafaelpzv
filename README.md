@@ -15,6 +15,7 @@ def Rifuzada():
           local = "Sorocaba - Sp"
 
 def Skills(Rifuzada):
+
   linguagens = ["Py, C#"]
 ```
 
@@ -23,4 +24,5 @@ def Skills(Rifuzada):
 <img height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=Rifuzada&theme=dark&show_icons=true"/>
 </a>
 
+[![card](https://github-readme-stats.vercel.app/api?username=Rifuzada&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
