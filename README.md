@@ -1,7 +1,7 @@
 <a href="https://github.com/Rifuzada">
 <img align=left src="https://img.shields.io/static/v1?label=Overview&message=Rifuzada&color=b11818&style=for-the-badge&logo=GitHub">
 </a>
-
+<meta name="google-site-verification" content="ONkQYZB_BNK5PDKbCidXf4WtBKv588id67bGjLPc4Xo" />
 <br>
 <br>
 <code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Python-Dark.svg"></code>
