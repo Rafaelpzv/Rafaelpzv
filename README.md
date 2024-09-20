@@ -8,6 +8,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/HTML.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CSS.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></code>
 <br>
 <br>
 
@@ -22,7 +23,7 @@ def Rifuzada():
 
 def Skills(Rifuzada):
     linguagens = ["Py"]
-    aprendendo = ["HMTL-CSS", "js"]
+    aprendendo = ["HMTL-CSS", "js", "java"]
 ```
 
 <a href="https://github.com/Rifuzada">
