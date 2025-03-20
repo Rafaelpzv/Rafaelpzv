@@ -17,7 +17,7 @@ from Rifuzada import Desenvolvedor
 
 def Rifuzada():
     nome = "Rafael"
-    area = "Backend"
+    area = "FullStack"
     trabalho = "???"
     local = "Sorocaba - Sp"
 
