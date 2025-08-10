@@ -27,8 +27,8 @@ def Rifuzada():
     local = "Sorocaba - Sp"
 
 def Skills(Rifuzada):
-    linguagens = ["Py"]
-    aprendendo = ["HMTL-CSS", "Js", "java", "Ts"]
+    linguagens = ["Py", "Js", "java", "Ts", "SQL"]
+    aprendendo = ["HMTL-CSS"]
 ```
 
 <a href="https://github.com/Rifuzada">
