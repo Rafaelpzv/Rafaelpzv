@@ -28,7 +28,7 @@ def Rifuzada():
 
 def Skills(Rifuzada):
     linguagens = ["Py"]
-    aprendendo = ["HMTL-CSS", "js", "java"]
+    aprendendo = ["HMTL-CSS", "Js", "java", "Ts"]
 ```
 
 <a href="https://github.com/Rifuzada">
