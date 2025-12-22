@@ -20,7 +20,7 @@ from Rifuzada import Desenvolvedor
 
 def Rifuzada():
     nome = "Rafael"
-    idade = "19"
+    idade = "20"
     genero = "Masculino"
     area = "FullStack"
     trabalho = "???"
