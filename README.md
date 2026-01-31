@@ -30,8 +30,3 @@ class Desenvolvedor:
 rafael = Desenvolvedor()
 print(rafael.linguagens)
 ```
-
-<a href="https://github.com/Rafaelpzv">
-<img height="170" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelpzv&theme=dark&hide_langs_below=1"/>
-<img height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=Rafaelpzv&theme=dark&show_icons=true"/>
-</a>
