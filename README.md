@@ -1,5 +1,5 @@
-<a href="https://github.com/Rifuzada">
-<img align=left src="https://img.shields.io/static/v1?label=Overview&message=Rifuzada&color=b11818&style=for-the-badge&logo=GitHub">
+<a href="https://github.com/Rafaelpzv">
+<img align=left src="https://img.shields.io/static/v1?label=Overview&message=Rafaelpzv&color=b11818&style=for-the-badge&logo=GitHub">
 </a>
 <meta name="google-site-verification" content="ONkQYZB_BNK5PDKbCidXf4WtBKv588id67bGjLPc4Xo" />
 <br>
@@ -16,22 +16,22 @@
 <br>
 
 ```py
-from Rifuzada import Desenvolvedor
+class Desenvolvedor:
+    def __init__(self):
+        self.nome = "Rafael"
+        self.idade = 20
+        self.genero = "Masculino"
+        self.area = "FullStack"
+        self.trabalho = "???"
+        self.local = "Sorocaba - SP"
+        self.linguagens = ["Python", "JavaScript", "Java", "TypeScript", "SQL"]
+        self.aprendendo = ["HTML", "CSS"]
 
-def Rifuzada():
-    nome = "Rafael"
-    idade = "20"
-    genero = "Masculino"
-    area = "FullStack"
-    trabalho = "???"
-    local = "Sorocaba - Sp"
-
-def Skills(Rifuzada):
-    linguagens = ["Py", "Js", "java", "Ts", "SQL"]
-    aprendendo = ["HMTL-CSS"]
+rafael = Desenvolvedor()
+print(rafael.linguagens)
 ```
 
-<a href="https://github.com/rafaelpzv">
+<a href="https://github.com/Rafaelpzv">
 <img height="170" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelpzv&theme=dark&hide_langs_below=1"/>
 <img height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=Rafaelpzv&theme=dark&show_icons=true"/>
 </a>
