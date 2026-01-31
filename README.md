@@ -31,7 +31,7 @@ def Skills(Rifuzada):
     aprendendo = ["HMTL-CSS"]
 ```
 
-<a href="https://github.com/Rifuzada">
+<a href="https://github.com/rafaelpzv">
 <img height="170" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelpzv&theme=dark&hide_langs_below=1"/>
 <img height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=Rafaelpzv&theme=dark&show_icons=true"/>
 </a>
