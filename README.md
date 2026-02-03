@@ -32,4 +32,4 @@ print(rafael.linguagens)
 ```
 
 <img align=left src="https://helio-github-stats.vercel.app/api?username=Rafaelpzv&custom_title=GitHub%2520Stats&theme=dark&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=false&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=false&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short" alt="GitHub Stats" width="466" height="auto" loading="lazy" />
-<img align=center src="https://helio-github-stats.vercel.app/api/pin?username=Rafaelpzv&repo=LolData&theme=dark&hide_border=false&border_radius=4.5&card_width=466&show_owner=true" height="auto" alt="Cartão" />
+<img align=right src="https://helio-github-stats.vercel.app/api/pin?username=Rafaelpzv&repo=LolData&theme=dark&hide_border=false&border_radius=4.5&card_width=466&show_owner=true" height="auto" alt="Cartão" />
